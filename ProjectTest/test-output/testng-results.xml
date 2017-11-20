@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66034" started-at="2017-11-20T03:11:58Z" finished-at="2017-11-20T03:13:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66034" started-at="2017-11-20T03:11:58Z" finished-at="2017-11-20T03:13:04Z">
+      <class name="com.testng.tests.UnitTestCases">
+        <test-method status="PASS" signature="testLongestWordLength()[pri:0, instance:com.testng.tests.UnitTestCases@2344fc66]" name="testLongestWordLength" duration-ms="8605" started-at="2017-11-19T21:11:58Z" finished-at="2017-11-19T21:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLongestWordLength -->
+        <test-method status="PASS" signature="testLongestWord()[pri:1, instance:com.testng.tests.UnitTestCases@2344fc66]" name="testLongestWord" duration-ms="8275" started-at="2017-11-19T21:12:07Z" finished-at="2017-11-19T21:12:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLongestWord -->
+        <test-method status="PASS" signature="testLongestWordAndLength()[pri:2, instance:com.testng.tests.UnitTestCases@2344fc66]" name="testLongestWordAndLength" duration-ms="6976" started-at="2017-11-19T21:12:15Z" finished-at="2017-11-19T21:12:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLongestWordAndLength -->
+        <test-method status="PASS" signature="testMultipleLongestSameWord()[pri:3, instance:com.testng.tests.UnitTestCases@2344fc66]" name="testMultipleLongestSameWord" duration-ms="22605" started-at="2017-11-19T21:12:22Z" finished-at="2017-11-19T21:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultipleLongestSameWord -->
+        <test-method status="PASS" signature="testLongestLenghtWordRegularExpression()[pri:4, instance:com.testng.tests.UnitTestCases@2344fc66]" name="testLongestLenghtWordRegularExpression" duration-ms="8929" started-at="2017-11-19T21:12:45Z" finished-at="2017-11-19T21:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLongestLenghtWordRegularExpression -->
+        <test-method status="PASS" signature="testLenghtSpace()[pri:5, instance:com.testng.tests.UnitTestCases@2344fc66]" name="testLenghtSpace" duration-ms="10598" started-at="2017-11-19T21:12:54Z" finished-at="2017-11-19T21:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLenghtSpace -->
+      </class> <!-- com.testng.tests.UnitTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
